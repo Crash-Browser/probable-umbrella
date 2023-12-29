@@ -1,0 +1,8 @@
+# Global code owners
+* @prysmaticlabs/core-team
+
+# Proto files owners
+*.proto @prysmaticlabs/core-team
+
+# Starlark changes
+*.bzl @prestonvanloon
